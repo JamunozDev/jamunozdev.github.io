@@ -118,7 +118,7 @@ Esta guía es la misma que tengo publicada en mi Gist:
           
 Antecedentes
 ===============================================================================================================================
-Antes que nada me gustaría comentar un poco mi experiencia a la hora de abordar el curso, pues tal vez le sirva de inspiración para aquel que pretenda sacarse la certificación.
+Ante que nada me gustaría comentar un poco mi experiencia a la hora de abordar el curso, pues tal vez le sirva de inspiración para aquel que pretenda sacarse la certificación.
 
 #### ¿Es difícil la certificación?
 
